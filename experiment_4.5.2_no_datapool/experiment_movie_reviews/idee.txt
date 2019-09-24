@@ -1,0 +1,2 @@
+Zweites Netz lernt nur mit Datenpunkten, bei denen sich das erste Netz unsicher ist.
+Mischung aus Iterative und Active Learning.
